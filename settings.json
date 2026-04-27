@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AloVuAVu",
+    "username": "Kiwawah",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": " Soul-VcSw.aternos.me",
-    "port": 50683,
+    "ip": " jewelfish.aternos.host",
+    "port": 22289,
     "version": "",
     "try-creative": false
   },
