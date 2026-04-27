@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Kiwawah",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "MoeMoe.aternos.me",
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Contact kiwizure for problems report",
+        "Subscribe to Moe Kimora!",
         "I like to play Minecraft!"
       ]
     },
