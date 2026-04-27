@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " MoeMoe.aternos.me",
+    "ip": "MoeMoe.aternos.me",
     "port": 22289,
     "version": "",
     "try-creative": false
